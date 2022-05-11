@@ -83,3 +83,4 @@ let projectImage = document.querySelectorAll(".project-image"),
             });
         }
     }
+   document.addEventListener("touchstart", function() {}, true);
